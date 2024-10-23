@@ -32,7 +32,7 @@ Pi-Apps is a free tool that makes it incredibly easy to install the most useful 
 
 Open a terminal and run this command to install Pi-Apps:
 ```bash
-wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+sudo wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
 ```
 Feel free to check out the Pi-Apps source code here: https://github.com/Botspot/pi-apps
 </div>
